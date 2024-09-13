@@ -10,7 +10,7 @@ document.getElementById('icon3').addEventListener('click', function() {
 });
 
 document.getElementById('icon4').addEventListener('click', function() {
-    window.location.href = 'https://github.com/zainafzal0/PassGuard'; 
+    window.location.href = 'https://github.com/AirajHussain/PassGuard'; 
 });
 
 document.getElementById('icon5').addEventListener('click', function() {
